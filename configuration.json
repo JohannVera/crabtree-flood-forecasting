@@ -1,0 +1,16 @@
+{
+  "high_level_training_q95_ft": 210.87,
+  "training_end_exclusive": "2024-10-04 00:00:00+00:00",
+  "validation_end_exclusive": "2025-10-04 00:00:00+00:00",
+  "target": "water surface elevation ft NAVD88",
+  "forecast_hours": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "training_sampling_minutes": 30,
+  "peak_weight": 4
+}

@@ -1,0 +1,27 @@
+[
+  {
+    "file": "2021_2022.rdb",
+    "sha256": "face4a5f55edf46cea7e2d41482f2c3aa8deafb7a357c7c86615f9c1213faf69",
+    "url": "https://nwis.waterdata.usgs.gov/usa/nwis/uv/?cb_00045=on&cb_63160=on&format=rdb&site_no=02087275&legacy=1&period=&begin_date=2021-10-04&end_date=2022-10-11"
+  },
+  {
+    "file": "2022_2023.rdb",
+    "sha256": "af533d9a20712343959ebb45f774563cf8ceeca66b4a4bd11ca9245467400454",
+    "url": "https://nwis.waterdata.usgs.gov/usa/nwis/uv/?cb_00045=on&cb_63160=on&format=rdb&site_no=02087275&legacy=1&period=&begin_date=2022-10-04&end_date=2023-10-11"
+  },
+  {
+    "file": "2023_2024.rdb",
+    "sha256": "4e96628b2eda3acd3966fd5f3eed4d53c3ff77beb67e656d112052b4f35c3246",
+    "url": "https://nwis.waterdata.usgs.gov/usa/nwis/uv/?cb_00045=on&cb_63160=on&format=rdb&site_no=02087275&legacy=1&period=&begin_date=2023-10-04&end_date=2024-10-11"
+  },
+  {
+    "file": "2024_2025.rdb",
+    "sha256": "5b24c9edd3d245bf30af9e9838223e4949f5e799ccacfb886a9d47e3c02ab974",
+    "url": "https://nwis.waterdata.usgs.gov/usa/nwis/uv/?cb_00045=on&cb_63160=on&format=rdb&site_no=02087275&legacy=1&period=&begin_date=2024-10-04&end_date=2025-10-11"
+  },
+  {
+    "file": "2025_2026.rdb",
+    "sha256": "dee70c109fb5e57d002013f58c2a39a396c4097f6fe934e2d7e885dcb0a66a7b",
+    "url": "https://nwis.waterdata.usgs.gov/usa/nwis/uv/?cb_00045=on&cb_63160=on&format=rdb&site_no=02087275&legacy=1&period=&begin_date=2025-10-04&end_date=2026-10-11"
+  }
+]

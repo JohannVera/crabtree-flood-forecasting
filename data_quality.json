@@ -1,0 +1,32 @@
+{
+  "sources": [
+    {
+      "file": "2021_2022.rdb",
+      "rows": 106995
+    },
+    {
+      "file": "2022_2023.rdb",
+      "rows": 107396
+    },
+    {
+      "file": "2023_2024.rdb",
+      "rows": 107693
+    },
+    {
+      "file": "2024_2025.rdb",
+      "rows": 107406
+    },
+    {
+      "file": "2025_2026.rdb",
+      "rows": 107368
+    }
+  ],
+  "unique_observations": 527642,
+  "overlap_rows_removed": 9216,
+  "conflicting_timestamps": 0,
+  "grid_rows": 528148,
+  "missing_level": 566,
+  "missing_rain": 24454,
+  "start_utc": "2021-10-04 04:00:00+00:00",
+  "end_utc": "2026-10-12 00:15:00+00:00"
+}

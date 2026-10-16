@@ -109,3 +109,8 @@ python neural_models.py --kind gru --epochs 30
 - [USGS data qualification](https://waterdata.usgs.gov/provisional-data-statement/)
 - [scikit-learn model documentation](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.HistGradientBoostingRegressor.html)
 - Exact retrieval links are in `sources.json`.
+
+
+## Newark reservoir project moved
+
+Modules 6 (Canistear) and 7 (Oak Ridge), together with their GIS datasets and maps, now live in [newark-water-supply](https://github.com/JohannVera/newark-water-supply). Follow that repository for current notebooks and Colab links. This repository remains focused on Crabtree flood forecasting.

@@ -6,6 +6,16 @@ A reproducible research project for forecasting **water-surface elevation 1–6 
 
 **v0.1 is a trained gradient-boosting benchmark plus corrected optional neural experiments. It is not a validated operational warning system.** The original notebook explored LSTM, GRU and BiLSTM; it did not supply comparable original-model results on this dataset. No claim of superiority over the original neural model is made.
 
+## Portfolio guide
+
+Start with the [notebook's saved benchmark results](Crabtree_Forecasting.ipynb): its table and embedded event figure are visible without installing dependencies or training models. These reproduce the archived v0.1 report snapshots; they are not a new model run. The executable walkthrough remains below the saved results.
+
+### Project scope and demonstrated skills
+
+This hydrology research portfolio demonstrates Python time-series preparation, timestamp and missing-data auditing, hydrologic feature engineering, chronological validation, gradient boosting, persistence baselines, and high-water/event evaluation. These describe the repository's contents, not individual authorship of every component.
+
+For a quick review, inspect `forecast.py` (modeling), `evaluate_events.py` (event diagnostics), and `test_integrity.py` (data checks). The benchmark improves high-water MAE at all six horizons, while overall MAE worsens at 4–6 hours. Optional neural experiments were not trained in v0.1. This is a research benchmark, not a deployed warning system.
+
 ## Run locally or in Colab
 
 Use Python 3.11. Download the repository or clone it, change into its directory, then:
